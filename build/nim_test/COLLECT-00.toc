@@ -1,0 +1,18 @@
+([('nim_test.exe',
+   'C:\\Users\\yoshi\\PycharmProjects\\pythonProject\\New '
+   'folder\\build\\nim_test\\nim_test.exe',
+   'EXECUTABLE'),
+  ('python311.dll', 'D:\\python\\python311.dll', 'BINARY'),
+  ('_decimal.pyd', 'D:\\python\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'D:\\python\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'D:\\python\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'D:\\python\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'D:\\python\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('select.pyd', 'D:\\python\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'D:\\python\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('VCRUNTIME140.dll', 'D:\\python\\VCRUNTIME140.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'D:\\python\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\yoshi\\PycharmProjects\\pythonProject\\New '
+   'folder\\build\\nim_test\\base_library.zip',
+   'DATA')],)
